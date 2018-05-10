@@ -21,9 +21,9 @@ Frequency | 1/Time | 123.27 Hz
 \* Time it takes for a body of mass M to travel distance L when accelerated with energy E.
 
 
-# Deriving
+# Derivation
 
-## Cube of hydrogen gas at it's triple point
+## Mass: Cube of hydrogen gas at it's triple point
 
 Pressure at triple point
 Density = (0,08988 kg 1/m³ x 273 K x 7,041 kPa) / (101,325 kPa x 13,8033 K) = 0.1235 kg 1/m³
@@ -31,7 +31,7 @@ Density = (0,08988 kg 1/m³ x 273 K x 7,041 kPa) / (101,325 kPa x 13,8033 K) = 0
 Mass = Volume x Density
 0.211061140542^3 * 0.1235 = 0.001161 kg = 1.161 g
 
-## Pressure on square surface
+## Force: Pressure on square surface
 
 F = P x A
 F = 7041 Pa x 0.211061140542^2 m² = 313.7 N
@@ -41,10 +41,15 @@ F = 7041 Pa x 0.211061140542^2 m² = 313.7 N
 E = Force x Length
 E = 313.7 N x 0.211061140542 m = 66.21 J
 
-## Accelerated mass
+## Time: Accelerated mass
 
-Time it takes for a body of mass M to travel distance L when accelerated with energy E.
+Time it takes for a body of mass M to travel distance L when accelerated with energy E. Or calculated as:
 
-1 J | 2 kg | 1 m | 1 s
-66.21 J | 0.001161 kg | 0.211061140542 m | 0.016224 s
-0.016224 s / 2 = 0.008112
+T = ((M x L²) / E)^(1/2)
+T = ((0.001161 g * (0.211061140542 m)^2) / 66.21 J)^(1/2)
+T = 0.0008838 s
+
+## Power
+
+P = Energy / Time
+P = 66.21 J / 0.0008838 s = 74915 W ~ 75 kW
