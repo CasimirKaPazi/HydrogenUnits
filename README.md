@@ -14,7 +14,6 @@ Quantity name	| Symbol | Source 					| Value in SI units
 Length			| LH     | Hydrogen line			| 0.211061140542 m
 Temperature		| °H     | Triple point of hydrogen	| 13.8033 K
 Pressure		| PH     | Triple point of hydrogen	| 7041 Pa
-				|        |							|
 Mass			| MH     | Derived					| 0.001161 kg = 1.161 g
 Force			| FH     | Derived					| 313.7 N
 Energy			| EH     | Force x Length			| 66.21 J
