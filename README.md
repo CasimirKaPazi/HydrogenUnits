@@ -23,6 +23,7 @@ Frequency		| 1/TH   | 1/Time					| 123.27 Hz
 Power           | WH     | Energy / Time            | 74915 W ~ 75 kW
 Amount of substance	| SH | Derived					| 1.152 mol
 Potential		| VH     | Derived					| 0.0005957 V
+Current			| CH     | Power / Potential		| 125800000 A
 
 To see how they are derived see: [Derivation](Derivation.md)
 
