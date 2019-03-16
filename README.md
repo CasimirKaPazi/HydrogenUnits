@@ -18,6 +18,7 @@ Mass			| MH     | Derived					| 0.001161 kg = 1.161 g
 Force			| FH     | Derived					| 313.7 N
 Energy			| EH     | Force x Length			| 66.21 J
 Time			| TH     | Derived					| 0.0008838 s
+Speed			| VH     | Length / Time			| 238.81 m/s
 Frequency		| 1/TH   | 1/Time					| 123.27 Hz
 Power           | WH     | Energy / Time            | 74915 W ~ 75 kW
 
@@ -39,6 +40,9 @@ Examples
 23 °H = 44.3 °C  
 
 101.325 kPa = 14.3907 PH
+
+Speed of light  
+299792458 m/s = 1255354 VH
 
 License
 -------
