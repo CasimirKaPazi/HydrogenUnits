@@ -59,3 +59,12 @@ P = 66.21 J / 0.0008838 s = 74915 W ~ 75 kW
 S = M * molar mass of hydrogen  
 S = 1.161 g / 1.0079 g/mol  
 S = 1.152 mol
+
+## Electric potential
+
+Equivalent to electron volt (eV).
+Energy divided by the amount of electrons in one cube of hydrogen gas, times the elementary charge of an electron.
+
+V = E / (S * Avogadro constant * elementary charge)
+V = 66.21 / (1.152 * 6.02214076*10^23 * 1.6021766208*10^(-19))
+V = 0.0005957 V
