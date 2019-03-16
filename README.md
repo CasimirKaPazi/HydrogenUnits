@@ -21,6 +21,7 @@ Time			| TH     | Derived					| 0.0008838 s
 Speed			| VH     | Length / Time			| 238.81 m/s
 Frequency		| 1/TH   | 1/Time					| 123.27 Hz
 Power           | WH     | Energy / Time            | 74915 W ~ 75 kW
+Amount of substance	| SH | Derived					| 1.152 mol
 
 To see how they are derived see: [Derivation](Derivation.md)
 

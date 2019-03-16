@@ -53,3 +53,9 @@ T = 0.0008838 s
 
 P = Energy / Time  
 P = 66.21 J / 0.0008838 s = 74915 W ~ 75 kW
+
+## Amount of substance
+
+S = M * molar mass of hydrogen  
+S = 1.161 g / 1.0079 g/mol  
+S = 1.152 mol
