@@ -10,20 +10,20 @@ It is based on the physical properties of Hydrogen and Hydrogen gas.
 * Independent from numeral systems used. No arbitrary factors.
 
 Quantity name	| Symbol | alt. Symbol | Source 					| Value in SI units
-----------------|:------:|:-----------:|--------------------------|---
-Length			| LH     | l▽          | Hydrogen line		    	| 0.211061140542 m
-Temperature		| °H     | °▽          | Triple point of hydrogen	| 13.8033 K
-Pressure		| PH     | p▽          | Triple point of hydrogen	| 7041 Pa
-Mass			| MH     | m▽          | Derived					| 0.001161 kg = 1.161 g
-Force			| FH     | f▽          | Derived					| 313.7 N
-Energy			| EH     | e▽          | Force x Length			| 66.21 J
-Time			| TH     | t▽          | Derived					| 0.0008838 s
-Speed			| CH     | c▽          | Length / Time			| 238.81 m/s
-Frequency		| 1/TH   | 1/t▽        | 1/Time					| 123.27 Hz
-Power           | WH     | w▽          | Energy / Time            | 74915 W ~ 75 kW
-Amount of substance	| SH | s▽          | Derived					| 1.152 mol
-Potential		| VH     | v▽          | Derived					| 0.0005957 V
-Current			| AH     | a▽          | Power / Potential		| 125800000 A
+----------------|:------:|:-----------:|----------------------------|---
+Length			| LH     | l▽          | Hydrogen line              | 0.211061140542 m
+Temperature		| °H     | °▽          | Triple point of hydrogen   | 13.8033 K
+Pressure		| PH     | p▽          | Triple point of hydrogen   | 7041 Pa
+Mass			| MH     | m▽          | Derived                    | 0.001161 kg = 1.161 g
+Force			| FH     | f▽          | Derived                    | 313.7 N
+Energy			| EH     | e▽          | Force x Length             | 66.21 J
+Time			| TH     | t▽          | Derived                    | 0.0008838 s
+Speed			| CH     | c▽ = l▽/t▽  | Length / Time              | 238.81 m/s
+Frequency		| 1/TH   | 1/t▽        | 1/Time                     | 123.27 Hz
+Power           | WH     | w▽          | Energy / Time              | 74915 W ~ 75 kW
+Amount of substance	| SH | s▽          | Derived                    | 1.152 mol
+Potential		| VH     | v▽          | Derived                    | 0.0005957 V
+Current			| AH     | a▽          | Power / Potential          | 125800000 A
 
 To see how they are derived see: [Derivation](Derivation.md)
 
@@ -52,7 +52,7 @@ Examples
 101.325 kPa = 14.3907 PH
 
 Speed of light  
-299792458 m/s = 1255354 VH
+299,792,458 m/s = 1,255,354 CH
 
 230 V = 0.137 VH
 
