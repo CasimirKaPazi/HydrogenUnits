@@ -9,23 +9,30 @@ It is based on the physical properties of Hydrogen and Hydrogen gas.
 * All units have to be in a "human range". Neither to small or to big to perceive.
 * Independent from numeral systems used. No arbitrary factors.
 
-Quantity name	| Symbol | Source 					| Value in SI units
-----------------|:------:|--------------------------|---
-Length			| LH     | Hydrogen line			| 0.211061140542 m
-Temperature		| °H     | Triple point of hydrogen	| 13.8033 K
-Pressure		| PH     | Triple point of hydrogen	| 7041 Pa
-Mass			| MH     | Derived					| 0.001161 kg = 1.161 g
-Force			| FH     | Derived					| 313.7 N
-Energy			| EH     | Force x Length			| 66.21 J
-Time			| TH     | Derived					| 0.0008838 s
-Speed			| LH/TH  | Length / Time			| 238.81 m/s
-Frequency		| 1/TH   | 1/Time					| 123.27 Hz
-Power           | WH     | Energy / Time            | 74915 W ~ 75 kW
-Amount of substance	| SH | Derived					| 1.152 mol
-Potential		| VH     | Derived					| 0.0005957 V
-Current			| CH     | Power / Potential		| 125800000 A
+Quantity name	| Symbol | alt. Symbol | Source 					| Value in SI units
+----------------|:------:|:-----------:|--------------------------|---
+Length			| LH     | l▽          | Hydrogen line		    	| 0.211061140542 m
+Temperature		| °H     | °▽          | Triple point of hydrogen	| 13.8033 K
+Pressure		| PH     | p▽          | Triple point of hydrogen	| 7041 Pa
+Mass			| MH     | m▽          | Derived					| 0.001161 kg = 1.161 g
+Force			| FH     | f▽          | Derived					| 313.7 N
+Energy			| EH     | e▽          | Force x Length			| 66.21 J
+Time			| TH     | t▽          | Derived					| 0.0008838 s
+Speed			| CH     | c▽          | Length / Time			| 238.81 m/s
+Frequency		| 1/TH   | 1/t▽        | 1/Time					| 123.27 Hz
+Power           | WH     | w▽          | Energy / Time            | 74915 W ~ 75 kW
+Amount of substance	| SH | s▽          | Derived					| 1.152 mol
+Potential		| VH     | v▽          | Derived					| 0.0005957 V
+Current			| AH     | a▽          | Power / Potential		| 125800000 A
 
 To see how they are derived see: [Derivation](Derivation.md)
+
+Symbols
+-------
+
+Hydrogen units are represented with two symbols. One to show that it is a hydrogen derived unit, the other to specify which quality it represents.
+The hydrogen unit symbol is either H (standard) or ▽ (fancy). The first is the standard symbol for Hydrogen, the later an old alchemical symbol for water (Unicode U+25BD).
+The symbols for the qualities are mostly derived from latin. Such as L for "longitudo".
 
 Examples
 --------
@@ -36,11 +43,11 @@ Examples
 37 °C	= 22.470 °H  
 100 °C	= 27.034 °H  
 
-20 °H = 2.9 °C  
+20 °H = 2.9 °C too cold  
 21 °H = 16.7 °C nice cool  
-21.334 °H = 21.334 °C  
+21.334 °H = 21.334 °C ideal  
 22 °H = 30.5 °C nice warm  
-23 °H = 44.3 °C  
+23 °H = 44.3 °C too hot  
 
 101.325 kPa = 14.3907 PH
 
