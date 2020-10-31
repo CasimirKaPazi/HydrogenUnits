@@ -10,7 +10,7 @@ It is based on the physical properties of Hydrogen and Hydrogen gas.
 * Independent from numeral systems used. No arbitrary factors.
 
 Quantity name	| Symbol | alt. Symbol | Source 					| Value in SI units
-----------------|:------:|:-----------:|----------------------------|---
+----------------|:------:|:-----------:|----------------------------|-------------------
 Length			| LH     | l▽          | Hydrogen line              | 0.211061140542 m
 Temperature		| °H     | °▽          | Triple point of hydrogen   | 13.8033 K
 Pressure		| PH     | p▽          | Triple point of hydrogen   | 7041 Pa
@@ -18,7 +18,7 @@ Mass			| MH     | m▽          | Derived                    | 0.001161 kg = 1.1
 Force			| FH     | f▽          | Derived                    | 313.7 N
 Energy			| EH     | e▽          | Force x Length             | 66.21 J
 Time			| TH     | t▽          | Derived                    | 0.0008838 s
-Speed			| CH     | c▽ = l▽/t▽  | Length / Time              | 238.81 m/s
+Speed			| CH     | c▽ = l▽/t▽  | Length / Time              | 238.81 m/s ~ 859.72 km/h
 Frequency		| 1/TH   | 1/t▽        | 1/Time                     | 123.27 Hz
 Power           | WH     | w▽          | Energy / Time              | 74915 W ~ 75 kW
 Amount of substance	| SH | s▽          | Derived                    | 1.152 mol
@@ -33,6 +33,7 @@ Symbols
 Hydrogen units are represented with two symbols. One to show that it is a hydrogen derived unit, the other to specify which quality it represents.
 The hydrogen unit symbol is either H (standard) or ▽ (fancy). The first is the standard symbol for Hydrogen, the later an old alchemical symbol for water (Unicode U+25BD).
 The symbols for the qualities are mostly derived from latin. Such as L for "longitudo".
+When used with capital H, the letters for quality are uppercase, to differentiate PH (pressure) from pH (acidity or alkalinity).
 
 Examples
 --------
@@ -49,6 +50,7 @@ Examples
 22 °H = 30.5 °C nice warm  
 23 °H = 44.3 °C too hot  
 
+Pressure at sea level  
 101.325 kPa = 14.3907 PH
 
 Speed of light  

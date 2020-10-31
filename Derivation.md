@@ -49,6 +49,11 @@ T = ((M x L²) / E)^(1/2)
 T = ((0.001161 g * (0.211061140542 m)^2) / 66.21 J)^(1/2)  
 T = 0.0008838 s
 
+We could have used the time for light in a vacuum to travel distance L (~0.000000000704024 s). But that number would have been impractial small. As result the speed of light is not 1 but 1,255,354.6 LH/TH. This factor could be rounded to a whole nummber and used to talk about much bigger or much smaller amounts of a given unit. For example, the time unit multipied by 1,255,355 gives about 18 minutes and 30 seconds. We can write this by appending an appostrophe.
+
+1 TH = 1 t▽ = 0.0008838 s  
+1 TH' = 1 t▽' = 18.5 min  
+
 ## Power
 
 P = Energy / Time  
@@ -56,7 +61,7 @@ P = 66.21 J / 0.0008838 s = 74915 W ~ 75 kW
 
 ## Amount of substance
 
-S = M * molar mass of hydrogen  
+S = M / molar mass of hydrogen  
 S = 1.161 g / 1.0079 g/mol  
 S = 1.152 mol
 
