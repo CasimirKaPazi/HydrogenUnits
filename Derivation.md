@@ -72,4 +72,10 @@ Energy divided by the amount of electrons in one cube of hydrogen gas, times the
 
 V = E / (S * Avogadro constant * elementary charge)
 V = 66.21 / (1.152 * 6.02214076*10^23 * 1.6021766208*10^(-19))
-V = 0.0005957 V
+V = 0.0005957 V0.001161 kg
+
+## Exchange value/Unit of account
+
+A unit of account measures the exchange value of something in units of hydrogen mass of equivalent value. It is not a currency in itself, as currencies also include policies and a way to transfer them.
+
+By the time of writing a cube of hydrogen gas with 0.001161 kg mass is worth about $0.0009 or 0.0008 €, which by coincidence can be rounded to roughly one cent.

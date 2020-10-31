@@ -24,6 +24,7 @@ Power           | WH     | w▽          | Energy / Time              | 74915 W 
 Amount of substance	| SH | s▽          | Derived                    | 1.152 mol
 Potential		| VH     | v▽          | Derived                    | 0.0005957 V
 Current			| AH     | a▽          | Power / Potential          | 125800000 A
+Exchange value	| UH     | u▽          | Cost of Mass               | 0.0008€ ~ $0.0009
 
 To see how they are derived see: [Derivation](Derivation.md)
 
