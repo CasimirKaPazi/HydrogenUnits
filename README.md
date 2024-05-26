@@ -51,8 +51,12 @@ Examples
 22 °H = 30.5 °C nice warm  
 23 °H = 44.3 °C too hot  
 
-Pressure at sea level  
-101.325 kPa = 14.3907 PH
+Pressure at sea level (Earth)  
+101.325 kPa = 14.3907 PH  
+Pressure at surface level (Mars)  
+0.636 kPa = 0.0903 PH  
+Pressure at surface level (Venus)  
+9.2 MPa = 1307 PH
 
 Speed of light  
 299,792,458 m/s = 1,255,354 CH
