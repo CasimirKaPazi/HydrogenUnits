@@ -6,7 +6,7 @@ A thought experiment on a system of measurement that is universal and needs only
 It is based on the physical properties of hydrogen and hydrogen gas.
 
 * All base units are derived from properties of hydrogen (gas) or similar universal values.
-* All units should be in a "human range", neither too small nor too big to perceive.
+* All units should be in a "human range", neither too small nor too big to perceive. Assuming that intelligent evolved life will be roughly human sized give or take one or two orders of magnitude (~ butterfly to whale).
 * Independent of the numeral system used. No arbitrary factors.
 
 Quantity            | Symbol | Alt. symbol    | Source                                 | Value in SI units
